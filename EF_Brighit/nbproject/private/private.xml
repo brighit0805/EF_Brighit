@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/src/java/model/daos/Dao.java</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/web/servicios_lista.jsp</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/src/java/model/beans/Servicio.java</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/src/java/model/daos/DaoUsuario.java</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/web/registro.jsp</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/src/java/Servlets/SessionServlet.java</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/web/index.jsp</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/web/login.jsp</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/src/java/model/beans/Usuario.java</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/web/registroafter.jsp</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/src/java/Servlets/InicioServlet.java</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/web/loginafter.jsp</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/src/java/Servlets/ServiciosServlet.java</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/web/servicios_confirmar.jsp</file>
+            <file>file:/C:/proyectos_java/BrighitEgusquiza/EF_Brighit/src/java/model/daos/DaoServicio.java</file>
+        </group>
+    </open-files>
+</project-private>
